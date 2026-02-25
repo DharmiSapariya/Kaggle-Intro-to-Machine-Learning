@@ -8,7 +8,7 @@
 **👨‍🎓 Completed by:** Dharmi Sapariya  
 **📖 Topic:** Building Your First ML Model - Hands-On Practice  
 **📅 Date:** February 25, 2026  
-**🎯 Exercise:** Part 4 - Your First Machine Learning Model Exercise  
+**🎯 Exercise:** Part 3 - Your First Machine Learning Model Exercise  
 **✅ Status:** All Steps Completed Successfully
 
 ---
