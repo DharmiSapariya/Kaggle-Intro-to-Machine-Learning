@@ -8,7 +8,7 @@
 **👨‍🎓 Learned by:** Dharmi Sapariya  
 **📖 Topic:** Building Your First ML Model with Decision Trees  
 **📅 Date:** February 2026  
-**🎯 Tutorial:** Part 4 - Your First Machine Learning Model
+**🎯 Tutorial:** Part 3 - Your First Machine Learning Model
 
 ---
 
